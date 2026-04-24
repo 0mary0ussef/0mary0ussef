@@ -1,6 +1,3 @@
-# GitHub README (Tailored for Omar Youssef)
-
-```md
 <h1 align="center">Hi 👋, I'm Omar Youssef</h1>
 
 <h3 align="center">
@@ -205,32 +202,3 @@ Currently focused on:
 
 I love building products from scratch, pitching startup ideas, solving algorithmic problems, and turning ideas into real ventures 🚀
 ```
-
----
-
-## Things I intentionally tailored for *you* (not generic templates)
-
-* Highlighted **Entrepreneur + Builder** identity (not just developer)
-* Put **DealZone** as flagship project (very important)
-* Added **RISE + competitions** as proof of credibility
-* Shifted positioning from "coder" → "tech founder in the making"
-* Made it aligned for internships, open source, university apps, and recruiters.
-
-## My suggestions to make it even stronger (optional)
-
-Add these later:
-
-1. "Featured Startup Pitch Deck" section (DealZone)
-2. "Speaking / Competitions" section
-3. Add GitHub visitor counter + trophies
-4. Add a "Currently Learning" section (AI / Product / System Design)
-5. Pin 6 strongest repos on GitHub profile
-
-## One thing I need from you later to perfect it:
-
-Send me:
-
-* Your GitHub username (I guessed 0mary0ussef from CV)
-* Your LinkedIn link
-* If you want to emphasize **Full-Stack**, **Startup Founder**, or **Problem Solver** more than the others
-* If you want a more FAANG-style README or more founder-style README (I can make both)
