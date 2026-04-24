@@ -182,7 +182,7 @@ Interactive environmental insights platform using maps and data visualization.
 
 # 🌍 Connect With Me
 
-<a href="ww.linkedin.com/in/omaryoussef01/" target="blank">
+<a href="www.linkedin.com/in/omaryoussef01/" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
