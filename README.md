@@ -99,11 +99,11 @@ Selected for multiple years to teach programming fundamentals to younger student
 
 <div align="center">
 
-<a href="https://github.com/0mary0ussef" target="_blank">
+<a href="https://github.com/0mary0ussef/DealZone" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=0mary0ussef&repo=DealZone&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/0mary0ussef" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0mary0ussef&repo=School-Admission-System&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/0mary0ussef/admission-system" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0mary0ussef&repo=admission-system&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -120,7 +120,7 @@ Selected for multiple years to teach programming fundamentals to younger student
 
 ## 🏆 Achievements
 
-<img align="right" width="260" src="https://github-profile-trophy.vercel.app/?username=0mary0ussef&theme=algolia&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" />
+<img align="right" width="260" src="https://raw.githubusercontent.com/0mary0ussef/0mary0ussef/output/trophy.svg" />
 
 - 🌍 Selected among **25 students worldwide** — RISE Global Internship
 - 🚀 Co-founder — **DealZone**
@@ -147,11 +147,9 @@ Selected for multiple years to teach programming fundamentals to younger student
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0mary0ussef&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
-<!--START_SECTION:snake-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/0mary0ussef/0mary0ussef/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </p>
-<!--END_SECTION:snake-->
 
 <br>
 
