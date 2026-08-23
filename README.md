@@ -1,213 +1,141 @@
-<h1 align="center">Hi 👋, I'm Omar Youssef</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Full-Stack Developer | 🚀 Tech Entrepreneur | 🧠 Problem Solver | 🌍 Aspiring Founder
-</h3>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Omar+Youssef+%F0%9F%91%8B;Full-Stack+Developer;React+%2B+ASP.NET+Builder;Founder+%40+DealZone;ICPC+%26+Competitive+Programmer" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;React+%2B+ASP.NET+Builder;Startup+Founder+%7C+DealZone;ICPC+Problem+Solver;Building+Tech+That+Solves+Real+Problems&center=true&width=700&height=35&color=58A6FF&pause=1000" />
+### 💻 Full-Stack Developer &nbsp;|&nbsp; 🚀 Tech Entrepreneur &nbsp;|&nbsp; 🧠 Problem Solver
+
+<p>
+  <a href="https://www.linkedin.com/in/omaryoussef01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:omaryossef011@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201027643232" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
----
+</div>
 
-# 🚀 About Me
+<br>
 
-I'm **Omar Youssef**, a Full-Stack Developer and student at El Sewedy International School for Applied Technology and Software, passionate about building products, solving real problems, and combining **technology with entrepreneurship**.
+## 🚀 About Me
 
-I enjoy turning ideas into real products — from scalable web applications to startup concepts.
+I'm **Omar Youssef**, a Full-Stack Developer and student at **El Sewedy International School for Applied Technology and Software**, passionate about building real products at the intersection of **technology and entrepreneurship**.
 
-### What I’m interested in:
-- 💻 Full-Stack Development
-- 🚀 Startups & Entrepreneurship
-- 🧠 Problem Solving & Competitive Programming
-- 🎨 UI/UX Design
-- 🌍 Building impactful tech products
+I like turning ideas into things people can actually use — from scalable web platforms to startup ventures.
+
+- 💻 Full-Stack Development (React + ASP.NET)
+- 🚀 Startups & Product Building
+- 🧠 Competitive Programming & Problem Solving
+- 🎨 UI/UX & Product Design
 - 📈 Product Strategy & Innovation
 
-### Currently:
-- Full-Stack Developer at **Entrepreno**
-- Building and growing **DealZone** (B2B Startup)
-- Developing scalable software systems
-- Exploring product thinking and tech entrepreneurship
+**Currently:**
+- 🏢 Full-Stack Developer at **Entrepreno**
+- 🏭 Building & growing **DealZone**, a B2B procurement startup
+- 🌍 Selected for the **RISE Global Internship** (1 of 25 worldwide)
 
----
+<br>
 
-# 🎓 Education
+## 💼 Experience
 
-### 🏫 El Sewedy International School for Applied Technology & Software
-**Software Specialization**  
-📍 Egypt  
-🏅 Ranked among top students in my cohort  
+<table>
+<tr>
+<td width="600">
 
----
+**Full-Stack Developer** · Entrepreno
+Building responsive, production-grade web applications with React and .NET; optimizing performance and system architecture for real client products.
 
-# 💼 Experience
+</td>
+</tr>
+<tr>
+<td>
 
-## Full-Stack Developer — Entrepreno
-- Building responsive web applications using React and .NET
-- Optimizing performance and scalable architecture
-- Working on real client products and business solutions
+**Full-Stack Developer (Volunteer)** · Discovery Ambassadors
+Developed interfaces for student-focused platforms in cross-functional teams.
 
-## Full-Stack Developer (Volunteer) — Discovery Ambassadors
-- Developed interfaces for student-focused platforms
-- Collaborated in cross-functional teams
+</td>
+</tr>
+<tr>
+<td>
 
-## Scratch Programming Instructor
-- Selected for multiple years to teach Scratch to younger students
-- Helping students build foundational programming skills
+**Scratch Programming Instructor**
+Selected for multiple years to teach programming fundamentals to younger students.
 
----
+</td>
+</tr>
+</table>
 
-# 🛠 Tech Stack
+<br>
 
-## 💻 Languages
+## 🛠 Tech Stack
+
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=js,cs,cpp,react,nextjs,html,css,tailwind,dotnet,nodejs,mongodb,mssql,figma,git,github,postman" />
 </p>
 
-## 🌐 Frontend
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-</p>
+<br>
 
-## ⚙ Backend
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-</p>
+## 📌 Featured Projects
 
-## 🗄 Databases
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
-</p>
+### 🏭 DealZone — B2B Startup
+A B2B procurement platform connecting suppliers and manufacturers through reverse bidding, marketplace workflows, and shipment tracking.
+**Stack:** React · ASP.NET · Tailwind · Zustand
+🏅 Represented our school in innovation competitions
 
-## 🎨 UI / Tools
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
-</p>
+### 🎓 School Admission Management System
+A full digital admissions platform covering registration, online exams, role-based dashboards, interview scheduling, and secure document handling.
+**Stack:** React.js · ASP.NET · SQL Server
 
----
+### 🌱 Zero Waste
+A sustainability platform promoting recycling awareness.
 
-# 📌 Featured Projects
+### 🌍 Env Map
+An interactive environmental insights platform combining maps and data visualization.
 
-## 🎓 School Admission Management System
-A full digital admissions platform for schools.
+<br>
 
-### Features:
-- Student registration & tracking
-- Online exams
-- Role-based dashboards
-- Interview management
-- Secure document handling
+## 🏆 Achievements
 
-**Stack:** React.js, ASP.NET, SQL Server
+- 🌍 Selected among **25 students worldwide** for the RISE Global Internship
+- 🚀 Co-founded **DealZone**
+- 🛰 Participant, NASA Space Apps Challenge
+- 💡 Participant, ICPC · GenZ Hackathon · ISEF · Fanni Mobtaker
+- 🥈 2nd Place, internal CPC competition
+- 👨‍🏫 Programming instructor for younger students
+- 📈 Built an audience of 3,000+ on LinkedIn
 
----
+<br>
 
-## 🏭 DealZone (Startup Project)
-B2B procurement platform connecting suppliers and manufacturers.
+## 🧠 Soft Skills
 
-### Features:
-- Reverse bidding system
-- Marketplace workflows
-- Shipment tracking
-- Role-based dashboards
-- Enterprise UI/UX
+`Problem Solving` `Leadership` `Presentation Skills` `Collaboration` `Adaptability` `Product Thinking` `Communication`
 
-**Stack:** React, ASP.NET, Tailwind, Zustand
+<br>
 
-🚀 Represented our school in innovation competitions.
-
----
-
-## 🌱 Zero Waste
-Sustainability platform promoting recycling awareness.
-
----
-
-## 🌍 Env Map
-Interactive environmental insights platform using maps and data visualization.
-
----
-
-# 🏆 Achievements
-
-- 🌍 Selected among only **25 students worldwide** for the RISE Global Internship
-- 🚀 Co-founded **DealZone** startup
-- 🛰 Participated in NASA Space Apps Challenge
-- 💡 Participated in ICPC, GenZ Hackathon, ISEF and Fanni Mobtaker
-- 🥈 2nd place in internal CPC competition
-- 👨‍🏫 Programming Instructor for younger students
-- 📈 Built audience of 3000+ on LinkedIn
-
----
-
-# 🧠 Soft Skills
-- Problem Solving
-- Leadership
-- Presentation Skills
-- Collaboration
-- Adaptability
-- Product Thinking
-- Communication
-
----
-
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=0mary0ussef&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0mary0ussef&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0mary0ussef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0mary0ussef&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-# 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=0mary0ussef&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=0mary0ussef&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<br>
 
-# 🌍 Connect With Me
+<div align="center">
 
-<a href="https://www.linkedin.com/in/omaryoussef01/" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### 🎯 Currently Focused On
 
-<a href="mailto:omaryossef011@gmail.com">
-<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+Building scalable full-stack products · Growing DealZone · Competitive programming · Exploring the intersection of business and tech
 
-<a href="https://wa.me/201027643232">
-<img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+<br>
 
----
+💬 *I love turning ideas into real products — one line of code and one pitch at a time.*
 
-# 🎯 Current Focus
-
-Currently focused on:
-- Building scalable full-stack products
-- Growing as a tech entrepreneur
-- Competitive programming and problem solving
-- Product development and startup building
-- Exploring the intersection of business and technology
-
----
-
-# ⚡ Fun Fact
-
-I love building products from scratch, pitching startup ideas, solving algorithmic problems, and turning ideas into real ventures 🚀
-```
+</div>
